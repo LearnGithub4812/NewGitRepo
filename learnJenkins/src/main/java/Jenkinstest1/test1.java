@@ -11,7 +11,7 @@ public static void main(String[] args) throws InterruptedException {
 		
 		driver.manage().window().maximize();
 		
-		driver.get("https://taxblockuat.in/sign-up");
+		driver.get("https://taxblock.in/sign-up");
 
 }
 }
